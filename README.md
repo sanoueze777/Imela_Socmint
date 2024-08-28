@@ -5,6 +5,8 @@ This is a streamlit app for facebook media monitoring
 it sccrapes and agregate and displays NLP data from posts from Burkina Faso press instutions including Burkina24, BurkinaInfo TV, Lefaso.net. 
 
 
-1. Run the scraper.py separately
+1. pip install -r requirements.txt
+   
+2. Run the scraper.py separately
 
-2. streamlit run test_streamlit.py
+3. streamlit run test_streamlit.py
