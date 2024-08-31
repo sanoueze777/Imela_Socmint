@@ -1,7 +1,6 @@
 datetime
 facebook_scraper
 pandas
-shutil
 time
 re
 textblob
