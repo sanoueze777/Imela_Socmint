@@ -1,7 +1,6 @@
 datetime
 facebook_scraper
 pandas
-time
 re
 textblob
 textblob_fr
