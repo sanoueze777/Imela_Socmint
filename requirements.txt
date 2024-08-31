@@ -1,10 +1,6 @@
 datetime
 facebook_scraper
 pandas
-re
-textblob
-textblob_fr
-streamlit
 streamlit_autorefresh
 io
 pyxlsb
@@ -12,4 +8,3 @@ wordcloud
 matplotlib
 streamlit_option_menu
 nltk
-punkt
