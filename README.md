@@ -1,4 +1,4 @@
-In those times of misinformation wars, it is important for government agencies to make sure regulated medias transmit neutral information.
+In those times of disinformation wars, it is important for government agencies to make sure regulated medias transmit neutral information.
 Manipulations from official press trough social networks can occur consciously or unconsciously. In either case, It has to be noticed.
 
 This is a streamlit app for facebook media monitoring. Please find a demo here: https://imelasocmint-iuxf3zbeklndqsc7kwgj6w.streamlit.app/
