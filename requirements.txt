@@ -2,7 +2,6 @@ datetime
 facebook_scraper
 pandas
 streamlit_autorefresh
-io
 pyxlsb
 wordcloud
 matplotlib
